@@ -229,6 +229,456 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhdIOox0dgsSzaUbcxTRiw28ZGFB2VyVnbw&s",
       "companyId": "4182",
       "id": "UOCVPsW"
-    }
+    },
+     {
+    "name": "Scout",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Matte Black",
+    "weight_kg": 12.4,
+    "companyId": "9101",
+    "id": "focus-scout-1",
+    "image": "https://example.com/focus-scout.jpg"
+  },
+  {
+    "name": "Procaliber",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Red",
+    "weight_kg": 11.8,
+    "companyId": "1234",
+    "id": "trek-procaliber-1",
+    "image": "https://example.com/trek-procaliber.jpg"
+  },
+  {
+    "name": "Zesty",
+    "discipline": "MTB",
+    "frame_material": "Aluminum",
+    "color": "Orange",
+    "weight_kg": 14.5,
+    "companyId": "9101",
+    "id": "focus-zesty-1",
+    "image": "https://example.com/focus-zesty.jpg"
+  },
+  {
+    "name": "Rootage",
+    "discipline": "MTB",
+    "frame_material": "Aluminum",
+    "color": "Blue",
+    "weight_kg": 13.9,
+    "companyId": "5678",
+    "id": "orbea-rootage-1",
+    "image": "https://example.com/orbea-rootage.jpg"
+  },
+  {
+    "name": "Ruby",
+    "discipline": "Road",
+    "frame_material": "Carbon",
+    "color": "Red",
+    "weight_kg": 8.6,
+    "companyId": "5678",
+    "id": "orbea-ruby-1",
+    "image": "https://example.com/orbea-ruby.jpg"
+  },
+  {
+    "name": "Turbo Creo",
+    "discipline": "Electric",
+    "frame_material": "Carbon",
+    "color": "Black",
+    "weight_kg": 13.5,
+    "companyId": "4182",
+    "id": "specialized-turbo-creo-1",
+    "image": "https://example.com/specialized-turbo-creo.jpg"
+  },
+  {
+    "name": "Stumpjumper",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Green",
+    "weight_kg": 11.5,
+    "companyId": "4182",
+    "id": "specialized-stumpjumper-1",
+    "image": "https://example.com/specialized-stumpjumper.jpg"
+  },
+  {
+    "name": "Allez",
+    "discipline": "Road",
+    "frame_material": "Aluminum",
+    "color": "Blue",
+    "weight_kg": 9.4,
+    "companyId": "1234",
+    "id": "trek-allez-1",
+    "image": "https://example.com/trek-allez.jpg"
+  },
+  {
+    "name": "Catálogo 29",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Black",
+    "weight_kg": 12.3,
+    "companyId": "9101",
+    "id": "focus-catálogo-29-1",
+    "image": "https://example.com/focus-catalogo29.jpg"
+  },
+  {
+    "name": "X-Caliber",
+    "discipline": "MTB",
+    "frame_material": "Aluminum",
+    "color": "Red",
+    "weight_kg": 13.2,
+    "companyId": "1234",
+    "id": "trek-x-caliber-1",
+    "image": "https://example.com/trek-x-caliber.jpg"
+  },
+  {
+    "name": "Big Nine",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "White",
+    "weight_kg": 10.6,
+    "companyId": "5678",
+    "id": "orbea-big-nine-1",
+    "image": "https://example.com/orbea-big-nine.jpg"
+  },
+  {
+    "name": "Fuse",
+    "discipline": "Urban",
+    "frame_material": "Aluminum",
+    "color": "Gray",
+    "weight_kg": 14.1,
+    "companyId": "4182",
+    "id": "specialized-fuse-1",
+    "image": "https://example.com/specialized-fuse.jpg"
+  },
+  {
+    "name": "Epic",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Blue",
+    "weight_kg": 9.9,
+    "companyId": "1234",
+    "id": "trek-epic-1",
+    "image": "https://example.com/trek-epic.jpg"
+  },
+  {
+    "name": "Epic EVO",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Red",
+    "weight_kg": 10.2,
+    "companyId": "1234",
+    "id": "trek-epic-evo-1",
+    "image": "https://example.com/trek-epic-evo.jpg"
+  },
+  {
+    "name": "Fuel EX",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Green",
+    "weight_kg": 12.7,
+    "companyId": "4182",
+    "id": "specialized-fuel-ex-1",
+    "image": "https://example.com/specialized-fuel-ex.jpg"
+  },
+  {
+    "name": "Roubaix",
+    "discipline": "Road",
+    "frame_material": "Carbon",
+    "color": "White",
+    "weight_kg": 8.9,
+    "companyId": "9101",
+    "id": "focus-roubaix-1",
+    "image": "https://example.com/focus-roubaix.jpg"
+  },
+  {
+    "name": "Diverge",
+    "discipline": "Gravel",
+    "frame_material": "Carbon",
+    "color": "Black",
+    "weight_kg": 9.7,
+    "companyId": "1234",
+    "id": "trek-diverge-1",
+    "image": "https://example.com/trek-diverge.jpg"
+  },
+  {
+    "name": "Ambush",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Orange",
+    "weight_kg": 11.3,
+    "companyId": "5678",
+    "id": "orbea-ambush-1",
+    "image": "https://example.com/orbea-ambush.jpg"
+  },
+  {
+    "name": "Enduro",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Matte Blue",
+    "weight_kg": 13.1,
+    "companyId": "4182",
+    "id": "specialized-enduro-1",
+    "image": "https://example.com/specialized-enduro.jpg"
+  },
+  {
+    "name": "S-Works Tarmac",
+    "discipline": "Road",
+    "frame_material": "Carbon",
+    "color": "Red",
+    "weight_kg": 7.8,
+    "companyId": "4182",
+    "id": "specialized-sworks-tarmac-1",
+    "image": "https://example.com/specialized-sworks-tarmac.jpg"
+  },
+  {
+    "name": "Epic HT",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Yellow",
+    "weight_kg": 10.4,
+    "companyId": "1234",
+    "id": "trek-epic-ht-1",
+    "image": "https://example.com/trek-epic-ht.jpg"
+  },
+  {
+    "name": "Levo",
+    "discipline": "Electric",
+    "frame_material": "Carbon",
+    "color": "Black",
+    "weight_kg": 20.3,
+    "companyId": "4182",
+    "id": "specialized-levo-1",
+    "image": "https://example.com/specialized-levo.jpg"
+  },
+  {
+    "name": "Evo",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Black",
+    "weight_kg": 12.9,
+    "companyId": "9101",
+    "id": "focus-evo-1",
+    "image": "https://example.com/focus-evo.jpg"
+  },
+  {
+    "name": "Sworks Epic",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Green",
+    "weight_kg": 9.7,
+    "companyId": "4182",
+    "id": "specialized-sworks-epic-1",
+    "image": "https://example.com/specialized-sworks-epic.jpg"
+  },
+  {
+    "name": "Bicicross",
+    "discipline": "Urban",
+    "frame_material": "Aluminum",
+    "color": "Silver",
+    "weight_kg": 15.0,
+    "companyId": "5678",
+    "id": "orbea-bicicross-1",
+    "image": "https://example.com/orbea-bicicross.jpg"
+  },
+  {
+    "name": "Instinct",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Green",
+    "weight_kg": 13.0,
+    "companyId": "9101",
+    "id": "focus-instinct-1",
+    "image": "https://example.com/focus-instinct.jpg"
+  },
+  {
+    "name": "Comet",
+    "discipline": "Road",
+    "frame_material": "Carbon",
+    "color": "White",
+    "weight_kg": 8.4,
+    "companyId": "5678",
+    "id": "orbea-comet-1",
+    "image": "https://example.com/orbea-comet.jpg"
+  },
+  {
+    "name": "Elan",
+    "discipline": "Urban",
+    "frame_material": "Aluminum",
+    "color": "Gray",
+    "weight_kg": 14.7,
+    "companyId": "1234",
+    "id": "trek-elan-1",
+    "image": "https://example.com/trek-elan.jpg"
+  },
+  {
+    "name": "Chrono",
+    "discipline": "MTB",
+    "frame_material": "Aluminum",
+    "color": "Blue",
+    "weight_kg": 13.8,
+    "companyId": "5678",
+    "id": "orbea-chrono-1",
+    "image": "https://example.com/orbea-chrono.jpg"
+  },
+  {
+    "name": "Wild FS",
+    "discipline": "Electric",
+    "frame_material": "Carbon",
+    "color": "Black",
+    "weight_kg": 21.5,
+    "companyId": "5678",
+    "id": "orbea-wild-fs-1",
+    "image": "https://example.com/orbea-wild-fs.jpg"
+  },
+  {
+    "name": "Reign",
+    "discipline": "MTB",
+    "frame_material": "Aluminum",
+    "color": "Red",
+    "weight_kg": 14.6,
+    "companyId": "9101",
+    "id": "focus-reign-1",
+    "image": "https://example.com/focus-reign.jpg"
+  },
+  {
+    "name": "Flash",
+    "discipline": "Urban",
+    "frame_material": "Aluminum",
+    "color": "Yellow",
+    "weight_kg": 13.3,
+    "companyId": "5678",
+    "id": "orbea-flash-1",
+    "image": "https://example.com/orbea-flash.jpg"
+  },
+  {
+    "name": "Trailfox",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Gray",
+    "weight_kg": 12.6,
+    "companyId": "4182",
+    "id": "specialized-trailfox-1",
+    "image": "https://example.com/specialized-trailfox.jpg"
+  },
+  {
+    "name": "Tracer",
+    "discipline": "MTB",
+    "frame_material": "Aluminum",
+    "color": "Matte Black",
+    "weight_kg": 14.2,
+    "companyId": "4182",
+    "id": "specialized-tracer-1",
+    "image": "https://example.com/specialized-tracer.jpg"
+  },
+  {
+    "name": "Vector",
+    "discipline": "Urban",
+    "frame_material": "Aluminum",
+    "color": "Silver",
+    "weight_kg": 14.8,
+    "companyId": "5678",
+    "id": "orbea-vector-1",
+    "image": "https://example.com/orbea-vector.jpg"
+  },
+  {
+    "name": "Nomad",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Green",
+    "weight_kg": 13.4,
+    "companyId": "4182",
+    "id": "specialized-nomad-1",
+    "image": "https://example.com/specialized-nomad.jpg"
+  },
+  {
+    "name": "Cinder Cone",
+    "discipline": "MTB",
+    "frame_material": "Aluminum",
+    "color": "Blue",
+    "weight_kg": 13.0,
+    "companyId": "1234",
+    "id": "trek-cinder-cone-1",
+    "image": "https://example.com/trek-cinder-cone.jpg"
+  },
+  {
+    "name": "Luna",
+    "discipline": "Urban",
+    "frame_material": "Aluminum",
+    "color": "White",
+    "weight_kg": 13.5,
+    "companyId": "5678",
+    "id": "orbea-luna-1",
+    "image": "https://example.com/orbea-luna.jpg"
+  },
+  {
+    "name": "Highball",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Black",
+    "weight_kg": 9.5,
+    "companyId": "4182",
+    "id": "specialized-highball-1",
+    "image": "https://example.com/specialized-highball.jpg"
+  },
+  {
+    "name": "Rustler",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Orange",
+    "weight_kg": 12.1,
+    "companyId": "1234",
+    "id": "trek-rustler-1",
+    "image": "https://example.com/trek-rustler.jpg"
+  },
+  {
+    "name": "Spark",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Red",
+    "weight_kg": 10.1,
+    "companyId": "5678",
+    "id": "orbea-spark-1",
+    "image": "https://example.com/orbea-spark.jpg"
+  },
+  {
+    "name": "Scale",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Black",
+    "weight_kg": 9.3,
+    "companyId": "1234",
+    "id": "trek-scale-1",
+    "image": "https://example.com/trek-scale.jpg"
+  },
+  {
+    "name": "Talon",
+    "discipline": "MTB",
+    "frame_material": "Aluminum",
+    "color": "Green",
+    "weight_kg": 13.2,
+    "companyId": "9101",
+    "id": "focus-talon-1",
+    "image": "https://example.com/focus-talon.jpg"
+  },
+  {
+    "name": "Anthem",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Blue",
+    "weight_kg": 10.0,
+    "companyId": "5678",
+    "id": "orbea-anthem-1",
+    "image": "https://example.com/orbea-anthem.jpg"
+  },
+  {
+    "name": "Revolver",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "Gray",
+    "weight_kg": 11.1,
+    "companyId": "9101",
+    "id": "focus-revolver-1",
+    "image": "https://example.com/focus-revolver.jpg"
+  }
   ]
 }
