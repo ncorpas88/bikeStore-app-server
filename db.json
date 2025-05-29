@@ -23,6 +23,30 @@
       "founded": 1993,
       "website": "//www.focus-bikes.com",
       "image": "https://seeklogo.com/images/F/focus-bikes-logo-257C1C67DD-seeklogo.com.png"
+    },
+    {
+      "id": "5855",
+      "name": "Specialized",
+      "country": "USA",
+      "founded": 1974,
+      "website": "//https://www.specialized.com",
+      "image": "https://images.seeklogo.com/logo-png/13/1/specialized-logo-png_seeklogo-130169.png"
+    },
+    {
+      "id": "4121",
+      "name": "Megamo",
+      "country": "Spain",
+      "founded": 1987,
+      "website": "//https://www.megamo.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZLa4UvEdDESJdTddGpVXqXD5pELNmPKMJGQ&s"
+    },
+      {
+      "id": "4182",
+      "name": "Scott",
+      "country": "Swiss",
+      "founded": 1991,
+      "website": "//https://www.scott-sports.com",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/SCOTT_LOGO_WHITE.jpg/1280px-SCOTT_LOGO_WHITE.jpg"
     }
   ],
   "bikes": [
@@ -37,14 +61,14 @@
       "image": "https://www.mountainbike.es/uploads/s1/76/64/49/4/focus-my21-sam2-6-9-new-006_1_1000x575.jpeg"
     },
     {
-      "id": "xcaliber9",
-      "name": "X-Caliber 9",
-      "discipline": "Cross Country",
-      "frame_material": "Aluminum",
-      "color": "Black",
-      "weight_kg": 12.3,
+      "name": "supercaliber",
+      "discipline": "MTB",
+      "frame_material": "carbone",
+      "color": "red",
+      "weight_kg": "10",
+      "image": "https://bike-mailorder.imgbo.lt/media/image/32/0b/dd/Supercaliber96_22_35151_B_Portrait_600x600@2x.jpg",
       "companyId": "1234",
-      "image": "https://cdn.todomountainbike.net/images/articles/2023/trek-procaliber-aluminio-2024-2.jpg"
+      "id": "xcaliber9"
     },
     {
       "id": "checkpointalr5",
@@ -117,22 +141,94 @@
       "image": "https://bikeboard.cc/_uploads/_fotos/202304_611408.jpg?1709223275"
     },
     {
-      "name": "orca",
-      "discipline": "carretera",
-      "frame_material": "carbon",
-      "color": "white",
-      "weight_kg": "10",
-      "image": "https://www.thecyclisthouse.com/cdn/shop/files/1_1_-Orbea-Orca-M30-2022.jpg?v=1694553796",
-      "id": "rYXSpAU"
-    },
-    {
       "name": "supercaliber",
       "discipline": "MTB",
       "frame_material": "carbon",
       "color": "red",
       "weight_kg": "12",
       "image": "https://i0.wp.com/bicicletascarmona.com/wp-content/uploads/2020/05/bicicleta-trek-supercaliber-98-roja.jpg?ssl=1",
-      "id": "ZOlIvFz"
+      "id": "ZOlIvFz",
+      "companyId": "1234"
+    },
+    {
+      "name": "orca",
+      "discipline": "Road",
+      "frame_material": "carbon",
+      "color": "black",
+      "weight_kg": "10",
+      "image": "https://granfondo-cycling.com/wp-content/uploads/sites/3/2023/07/Orbea_Orca_2023_First_Ride_Test_Review_WEB-1-2.jpg",
+      "companyId": "5678",
+      "id": "ZGBQ_Ui"
+    },
+    {
+      "name": "Rise",
+      "discipline": "Electric",
+      "frame_material": "carbon",
+      "color": "black",
+      "weight_kg": "15",
+      "image": "https://www.emtb-news.de/news/wp-content/uploads/2024/06/orbea-rise-h-2025-titelbild.jpg",
+      "companyId": "5678",
+      "id": "rmDBGNb"
+    },
+    {
+      "name": "Rail",
+      "discipline": "Electric",
+      "frame_material": "carbon",
+      "color": "black",
+      "weight_kg": "17",
+      "image": "https://ciclo-mania.com/wp-content/uploads/2018/07/Rail-9.7-gris.jpg",
+      "companyId": "1234",
+      "id": "yUPgTrH"
+    },
+    {
+      "name": "Jam2",
+      "discipline": "Electric",
+      "frame_material": "carbon",
+      "color": "green",
+      "weight_kg": "15",
+      "image": "https://e-mtb.es/wp-content/uploads/2021/12/FOCUS-JAM2-2022-24.jpg",
+      "companyId": "9101",
+      "id": "2ad_hlC"
+    },
+    {
+      "name": "Oiz",
+      "discipline": "MTB",
+      "frame_material": "carbon",
+      "color": "white",
+      "weight_kg": "9",
+      "image": "https://ep1.pinkbike.org/p5pb25433287/p5pb25433287.jpg",
+      "companyId": "5678",
+      "id": "UmCrwsp"
+    },
+     {
+      "name": "Spark RC",
+      "discipline": "MTB",
+      "frame_material": "carbon",
+      "color": "black",
+      "weight_kg": "9",
+      "image": "https://res.cloudinary.com/portalbici/datasheets/4/02.jpg",
+      "companyId": "4182",
+      "id": "UmCrysf"
+    },
+    {
+      "name": "Addict eRIDE",
+      "discipline": "Electric",
+      "frame_material": "carbon",
+      "color": "green",
+      "weight_kg": "9",
+      "image": "https://ebike.es/wp-content/uploads/2023/04/Scott-Addict-Eride-10-1200x675.jpg",
+      "companyId": "4182",
+      "id": "UOCrPsf"
+    },
+     {
+      "name": "Addict",
+      "discipline": "Road",
+      "frame_material": "carbon",
+      "color": "red",
+      "weight_kg": "9",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhdIOox0dgsSzaUbcxTRiw28ZGFB2VyVnbw&s",
+      "companyId": "4182",
+      "id": "UOCVPsW"
     }
   ]
 }
