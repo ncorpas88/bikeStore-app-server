@@ -279,6 +279,86 @@
     "companyId": "4182",
     "id": "specialized-fuse-1",
     "image": "https://assets.specialized.com/i/specialized/96021-50_FUSE-COMP-29-REDTNT-FLKSIL-SILFL_FDSQ?$scom-pdp-product-image-xl$&fmt=webp"
+  },
+  {
+    "name": "Jakar",
+    "discipline": "Gravel",
+    "frame_material": "Carbon",
+    "color": "Red",
+    "weight_kg": 11.1,
+    "companyId": "4121",
+    "id": "jakar25",
+    "image": "https://www.megamo.com/biblioteca/arxius/MY25/JAKAR/cuadro-jakar.jpg"
+  },
+  {
+    "name": "Rise",
+    "discipline": "Road",
+    "frame_material": "Carbon",
+    "color": "white",
+    "weight_kg": 11.1,
+    "companyId": "4121",
+    "id": "rise256",
+    "image": "https://www.bicispasaje.es/78320/bicicleta-megamo-raise-15-2025.jpg"
+  },
+  {
+    "name": "Track",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "green",
+    "weight_kg": 12.1,
+    "companyId": "4121",
+    "id": "track556",
+    "image": "https://esmtb.com/wp-content/uploads/2024/10/megamotrack.jpg"
+  },
+  {
+    "name": "Reason",
+    "discipline": "Electric",
+    "frame_material": "Carbon",
+    "color": "green",
+    "weight_kg": 16.1,
+    "companyId": "4121",
+    "id": "reason506",
+    "image": "https://www.megamo.com/biblioteca/arxius/MY26/REASON/MGM08469.jpg"
+  },
+  {
+    "name": "Creo",
+    "discipline": "Electric",
+    "frame_material": "Carbon",
+    "color": "black",
+    "weight_kg": 14.1,
+    "companyId": "5855",
+    "id": "creo06",
+    "image": "https://www.mountainbike.es/uploads/s1/13/00/55/92/specialized-creo-2-2024.jpeg"
+  },
+  {
+    "name": "Tarmac sl8",
+    "discipline": "Road",
+    "frame_material": "Carbon",
+    "color": "red",
+    "weight_kg": 8.5,
+    "companyId": "5855",
+    "id": "tarmac6",
+    "image": "https://news.lordgun.com/uploads/1_3d6843de56.png"
+  },
+  {
+    "name": "Turbo Levo",
+    "discipline": "Electric",
+    "frame_material": "Carbon",
+    "color": "green",
+    "weight_kg": 16.5,
+    "companyId": "5855",
+    "id": "turbo6",
+    "image": "https://www.terra-bike.es/66234-large_default/bicicleta-specialized-turbo-levo-s-works-sl-ltd-2025.jpg"
+  },
+  {
+    "name": "Epic",
+    "discipline": "MTB",
+    "frame_material": "Carbon",
+    "color": "black",
+    "weight_kg": 9.5,
+    "companyId": "5855",
+    "id": "epic6",
+    "image": "https://tuvalum.com/cdn/shop/files/101415_-_Specialized_Epic_EVO_-_C3577_1101415_-_Specialized_Epic_EVO_-_C3577.jpg?v=1724767630"
   }
   ]
 }
