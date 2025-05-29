@@ -348,7 +348,7 @@
     "weight_kg": 16.5,
     "companyId": "5855",
     "id": "turbo6",
-    "image": "https://www.terra-bike.es/66234-large_default/bicicleta-specialized-turbo-levo-s-works-sl-ltd-2025.jpg"
+    "image": "https://hummibikes.com/wp-content/uploads/2022/05/Specialized-Levo-Comp-Alloy-Nb-Sgegrn.webp"
   },
   {
     "name": "Epic",
@@ -359,6 +359,36 @@
     "companyId": "5855",
     "id": "epic6",
     "image": "https://tuvalum.com/cdn/shop/files/101415_-_Specialized_Epic_EVO_-_C3577_1101415_-_Specialized_Epic_EVO_-_C3577.jpg?v=1724767630"
+  },
+  {
+    "name": "Aethos",
+    "discipline": "Road",
+    "frame_material": "Carbon",
+    "color": "special",
+    "weight_kg": 8.5,
+    "companyId": "5855",
+    "id": "aethos6",
+    "image": "https://contenderbicycles.com/cdn/shop/articles/DSC05327_copy_2_722656b2-9135-4312-8d78-170583551614.jpg?v=1704919377&width=1600"
+  },
+  {
+    "name": "Madone",
+    "discipline": "Road",
+    "frame_material": "Carbon",
+    "color": "multi-color",
+    "weight_kg": 9.5,
+    "companyId": "1234",
+    "id": "madone65",
+    "image": "https://cdn.mos.cms.futurecdn.net/AziEScuczQYWXQPNMDteB5.jpg"
+  },
+   {
+    "name": "Izalco",
+    "discipline": "Road",
+    "frame_material": "Carbon",
+    "color": "white",
+    "weight_kg": 8.5,
+    "companyId": "9101",
+    "id": "izz65",
+    "image": "https://www.bicimaxvalencia.com/wp-content/uploads/2024/07/e76a8dad_FO0010028v2023_2023_28_DI_GRY_090_Pro_IZALCO-MAX-9-8.jpg"
   }
   ]
 }
