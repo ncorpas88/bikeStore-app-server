@@ -51,7 +51,7 @@
   ],
   "bikes": [
     {
-      "name": "Focus sam",
+      "name": "Sam",
       "discipline": "MTB",
       "frame_material": "Carbon",
       "color": "White",
@@ -61,7 +61,7 @@
       "image": "https://www.mountainbike.es/uploads/s1/76/64/49/4/focus-my21-sam2-6-9-new-006_1_1000x575.jpeg"
     },
     {
-      "name": "supercaliber",
+      "name": "Supercaliber",
       "discipline": "MTB",
       "frame_material": "carbone",
       "color": "red",
@@ -71,7 +71,7 @@
       "id": "xcaliber9"
     },
     {
-      "id": "checkpointalr5",
+      "id": "Checkpointalr5",
       "name": "Checkpoint ALR 5",
       "discipline": "Gravel",
       "frame_material": "Aluminum",
@@ -81,7 +81,7 @@
       "image": "https://espaciobike.com/wp-content/uploads/2022/10/CheckpointALR5_22_35172_A_Portraitwid2000.jpg"
     },
     {
-      "id": "orbeaalma",
+      "id": "Alma",
       "name": "Orbea Alma",
       "discipline": "Cross Country",
       "frame_material": "Carbon",
@@ -91,7 +91,7 @@
       "image": "https://www.mountainbike.es/uploads/s1/13/94/31/00/nueva-orbea-alma-2025-pura-esencia.jpeg"
     },
     {
-      "id": "orbeaterras",
+      "id": "Terras",
       "name": "Orbea Terra",
       "discipline": "Gravel",
       "frame_material": "Carbon",
@@ -101,7 +101,7 @@
       "image": "https://c02.purpledshub.com/uploads/sites/39/2020/06/Orbea-Terra-M20-D1x-GRX-01-ba72e9a.jpg"
     },
     {
-      "id": "orbeavibe",
+      "id": "Vibe",
       "name": "Orbea Vibe",
       "discipline": "Urban",
       "frame_material": "Aluminum",
@@ -111,7 +111,7 @@
       "image": "https://www.cyclespirit.com/images/myimages/vibe-main.png"
     },
     {
-      "id": "focusjam",
+      "id": "Jam",
       "name": "Focus Jam",
       "discipline": "Trail",
       "frame_material": "Carbon",
@@ -121,7 +121,7 @@
       "image": "https://flowmountainbike.com/wp-content/uploads/2024/09/Screenshot-2024-09-26-at-9.31.35%E2%80%AFAM.jpg"
     },
     {
-      "id": "focusatlas",
+      "id": "Atlas",
       "name": "Focus Atlas",
       "discipline": "Gravel",
       "frame_material": "Aluminum",
@@ -131,7 +131,7 @@
       "image": "https://i.redd.it/focus-atlas-8-9-with-dt-swiss-hgc-1400-spline-whelset-v0-d8gulto6mjjb1.jpg?width=3568&format=pjpg&auto=webp&s=288257d89079273299e98711c79ebb3252243a6c"
     },
     {
-      "id": "focusplanet",
+      "id": "Planet",
       "name": "Focus Planet",
       "discipline": "Urban",
       "frame_material": "Aluminum",
@@ -141,7 +141,7 @@
       "image": "https://bikeboard.cc/_uploads/_fotos/202304_611408.jpg?1709223275"
     },
     {
-      "name": "supercaliber",
+      "name": "Supercaliber",
       "discipline": "MTB",
       "frame_material": "carbon",
       "color": "red",
@@ -151,7 +151,7 @@
       "companyId": "1234"
     },
     {
-      "name": "orca",
+      "name": "Orca",
       "discipline": "Road",
       "frame_material": "carbon",
       "color": "black",
