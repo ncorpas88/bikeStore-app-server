@@ -29,7 +29,7 @@
       "name": "Specialized",
       "country": "USA",
       "founded": 1974,
-      "website": "//https://www.specialized.com",
+      "website": "//www.specialized.com",
       "image": "https://images.seeklogo.com/logo-png/13/1/specialized-logo-png_seeklogo-130169.png"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Megamo",
       "country": "Spain",
       "founded": 1987,
-      "website": "//https://www.megamo.com",
+      "website": "//www.megamo.com",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZLa4UvEdDESJdTddGpVXqXD5pELNmPKMJGQ&s"
     },
       {
@@ -45,7 +45,7 @@
       "name": "Scott",
       "country": "Swiss",
       "founded": 1991,
-      "website": "//https://www.scott-sports.com",
+      "website": "//www.scott-sports.com",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/SCOTT_LOGO_WHITE.jpg/1280px-SCOTT_LOGO_WHITE.jpg"
     }
   ],
@@ -246,7 +246,7 @@
     "frame_material": "Carbon",
     "color": "Black",
     "weight_kg": 13.5,
-    "companyId": "4182",
+    "companyId": "5855",
     "id": "specialized-turbo-creo-1",
     "image": "https://www.mountainbike.es/uploads/s1/13/00/55/92/specialized-creo-2-2024.jpeg"
   },
